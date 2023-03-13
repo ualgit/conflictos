@@ -14,7 +14,7 @@ Por lo tanto, al mezclar r1 y r2 no habrá conflictos, pero sí al mezclar r2 co
 
 ## Texto específico de cada rama
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper eget. Aliquet bibendum enim facilisis gravida neque convallis. Viverra aliquet eget sit amet tellus cras adipiscing enim. 
+Lorem ipsum **CAMBIOS EN R1** dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper eget. Aliquet bibendum enim facilisis gravida neque convallis. Viverra aliquet eget sit amet tellus cras adipiscing enim. 
 
 Metus aliquam eleifend mi in nulla posuere. Tortor id aliquet lectus proin nibh nisl. Hac habitasse platea dictumst quisque sagittis purus sit. Gravida dictum fusce ut placerat orci nulla pellentesque dignissim. Ultrices vitae auctor eu augue. Aenean euismod elementum nisi quis eleifend quam adipiscing.
 
